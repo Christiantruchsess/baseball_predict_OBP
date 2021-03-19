@@ -1,2 +1,2 @@
-# baseball_unsupervised
-Finding patterns in offensive baseball statistics and player salaries using unsupervised Machine Learning.
+# baseball_predict_OBP
+Building an ML model to predict OBP given a player's offensive stats.
